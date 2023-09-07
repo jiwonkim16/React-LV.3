@@ -31,7 +31,7 @@ const SelectMenu = styled.button`
 `;
 const OptionContents = styled.div`
   border: 1px solid #dddddd;
-  width: 40%;
+  width: 12%;
   background-color: white;
   border-radius: 3px;
   display: flex;
@@ -40,7 +40,7 @@ const OptionContents = styled.div`
   padding-right: 10px;
   line-height: 200%;
   position: absolute;
-  top: 66%;
+  top: 62%;
 `;
 const OtherOptionContents = styled.div`
   border: 1px solid #dddddd;
